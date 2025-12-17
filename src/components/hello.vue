@@ -81,11 +81,11 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  min-height: 55vh;
   padding: 1rem 1rem;
   color: #ffffff;
   flex-wrap: wrap;
   gap: 2rem;
+  margin-top: 2vh;
 }
 
 .intro {
